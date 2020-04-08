@@ -71,7 +71,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<app-header></app-header>\r\n\r\n\r\n<div style=\"float: left; width: 100%;\">\r\n    <owl-carousel-o [options]=\"customOptions\">\r\n        <ng-template carouselSlide>\r\n            <img class=\"d-block w-100\"\r\n                src=\"../assets/images/1gigabyte_motherboard_installing_dolls_processor_26165_1920x1080.jpg\"\r\n                alt=\"CEG\">\r\n\r\n            <div class=\"banneroverlay\">\r\n                <h1>WELCOME TO ECEA</h1>\r\n            </div>\r\n\r\n           \r\n        </ng-template>\r\n        <ng-template carouselSlide>\r\n            <img class=\"d-block w-100\"\r\n                src=\"../assets/images/31b52b77be21342025da469307dd2fde.jpg\"\r\n                alt=\"CEG\">\r\n\r\n                \r\n            <div class=\"banneroverlay\">\r\n                    <h1>The Future is YOU!</h1>\r\n                </div>\r\n        </ng-template>\r\n        <ng-template carouselSlide>\r\n            <img class=\"d-block w-100\"\r\n                src=\"../assets/images/wp19045958.jpg\"\r\n                alt=\"CEG\">\r\n\r\n                \r\n            <div class=\"banneroverlay\">\r\n                    <h1>\"Lets make the world a better place\"</h1>\r\n                </div>\r\n        </ng-template>\r\n    </owl-carousel-o>\r\n</div>\r\n<app-aboutus> </app-aboutus>\r\n<app-sympo> </app-sympo>\r\n<app-qp>  </app-qp>\r\n<app-slider> </app-slider>\r\n<app-footer> </app-footer>";
+    __webpack_exports__["default"] = "<app-header></app-header>\r\n\r\n\r\n<div style=\"float: left; width: 100%;\">\r\n    <owl-carousel-o [options]=\"customOptions\">\r\n        <ng-template carouselSlide>\r\n            <img class=\"d-block w-100\"\r\n                src=\"../assets/images/1gigabyte_motherboard_installing_dolls_processor_26165_1920x1080.jpg\"\r\n                alt=\"CEG\">\r\n\r\n            <div class=\"banneroverlay\">\r\n                <h1>WELCOME TO ECEA</h1>\r\n            </div>\r\n\r\n           \r\n        </ng-template>\r\n        <ng-template carouselSlide>\r\n            <img class=\"d-block w-100\"\r\n                src=\"../assets/images/31b52b77be21342025da469307dd2fde.jpg\"\r\n                alt=\"CEG\">\r\n\r\n                \r\n            <div class=\"banneroverlay\">\r\n                    <h1>The Future is YOU!</h1>\r\n                </div>\r\n        </ng-template>\r\n        <ng-template carouselSlide>\r\n            <img class=\"d-block w-100\"\r\n                src=\"../assets/images/wp19045958.jpg\"\r\n                alt=\"CEG\">\r\n\r\n                \r\n            <div class=\"banneroverlay\">\r\n                    <h1>\"Lets make the world a better place\"</h1>\r\n                </div>\r\n        </ng-template>\r\n    </owl-carousel-o>\r\n</div>\r\n<app-aboutus> </app-aboutus>\r\n<app-sympo> </app-sympo>\r\n<app-qp>  </app-qp>\r\n<app-slider> </app-slider>\r\n\r\n<app-footer> </app-footer>";
     /***/
   },
 
@@ -111,7 +111,27 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<div class=\"upper\">\r\n    <div class=\"container\">\r\n        <div class=\"col-sm-6\">\r\n            <span class=\"tops\"> <a href=\"https://www.google.com/maps/place/Department+of+Electronics+and+Communication+Engineering/@13.012526,80.235332,15z/data=!4m5!3m4!1s0x0:0xf0a9d75f1f556a71!8m2!3d13.012526!4d80.2353323?hl=en\"> <i class=\"fas fa-map-marked-alt\"></i>CEG, Anna University</a> </span>   \r\n            <span class=\"tops\"><i class=\"fas fa-mobile-alt\"></i>044-22358812</span>  \r\n            <span class=\"tops\"> <i class=\"fas fa-mail-bulk\"></i>cegecea2020@gmail.com</span>  \r\n               \r\n\r\n\r\n         </div>\r\n       \r\n        <div class=\"col-sm-6\">\r\n        <div class=\"bots\">\r\n        <a class=\"fb\" href=\"https://www.facebook.com/CEGECEA\">\r\n                <i class=\"fab fa-facebook\"></i>\r\n        </a>\r\n        <a class=\"insta\" href=\"https://www.instagram.com/ecea_ceg\">\r\n                <i class=\"fab fa-instagram\"></i>\r\n        </a>\r\n        <a class=\"Linkedin\" href=\"https://www.linkedin.com/in/ecea-ceg/\">\r\n            <i class=\"fab fa-linkedin\"></i>\r\n        </a>\r\n    </div>\r\n        </div>\r\n     </div>   \r\n\r\n</div>\r\n\r\n<nav class=\"navbar navbar-expand-sm bg-dark navbar-dark\">\r\n  <div class=\"container\">  \r\n\r\n\r\n    <a class=\"navbar-brand\" href=\"http://ecea.in/\">\r\n        <img src=\"../assets/images/ec5.png\"\r\n            alt=\"Logo\" style=\"width:50px; height:50px\">\r\n\r\n    </a>\r\n\r\n    <ul class=\"navbar-nav ml-auto\">\r\n        <li class=\"nav-item\">\r\n            <a class=\"nav-link\" href=\"#\">Resonance</a>\r\n        </li>\r\n        <li class=\"nav-item\">\r\n            <a class=\"nav-link\" href=\"#\">Directivity</a>\r\n        </li>\r\n\r\n        <li class=\"nav-item dropdown\">\r\n            <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"navbardrop\" data-toggle=\"dropdown\">\r\n                Academics\r\n            </a>\r\n            <div class=\"dropdown-menu\">\r\n                <a class=\"dropdown-item\" href=\"https://drive.google.com/drive/u/0/folders/1q8Wj5Uj9GAzGv9a1JHTELEYwxAHXGnpG\">Placement-Tips</a>\r\n                <a class=\"dropdown-item\" href=\"https://drive.google.com/drive/u/0/folders/1qJ7f7G787h2ArWmRs0AVIEgoVs9_PjUy\">Q/P</a>\r\n                <a class=\"dropdown-item\" href=\"https://drive.google.com/drive/folders/1Qf38Irv20-muMX_Q_6N1rPaDcCDqFEgV\">Subject Notes</a>\r\n            </div>\r\n        </li>\r\n    </ul>\r\n    <button class=\"btn btn-danger navbar-btn\" onclick=\"window.location.href = 'http://visionceg.in'; \">Vision</button>\r\n    </div>\r\n</nav>\r\n\r\n<!-- \r\n<owl-carousel-o [options]=\"customOptions\">\r\n\r\n    <ng-container *ngFor=\"let slide of slidesStore\">\r\n        <ng-template carouselSlide [id]=\"slide.id\">\r\n            <img [src]=\"slide.src\" [alt]=\"slide.alt\" [title]=\"slide.title\">\r\n        </ng-template>\r\n    </ng-container>\r\n\r\n</owl-carousel-o>\r\n\r\n\r\n\r\n<div id=\"demo\" class=\"carousel slide\" data-ride=\"carousel\">\r\n \r\n    <div class=\"carousel-inner\" role=\"listbox\">\r\n        <div class=\"carousel-item active\">\r\n            <img class=\"d-block w-100\"\r\n                src=\"https://madrasmagazine.files.wordpress.com/2018/11/anna_university_02.jpg?w=2000&h=1200&crop=1\"\r\n                alt=\"CEG\">\r\n            <div class=\"Caption-Carousel\">\r\n                <h3>CEG</h3>\r\n                <p>random data</p>\r\n\r\n            </div>\r\n        </div>\r\n\r\n        <div class=\"carousel-item\">\r\n            <img class=\"d-block w-100\" src=\"https://www.annauniv.edu/ece/images/dece.jpg\" alt=\"ECE\">\r\n            <div class=\"Caption-Carousel\">\r\n                <h3>ECE</h3>\r\n                <p>random data</p>\r\n\r\n            </div>\r\n        </div>\r\n        <div class=\"carousel-item\">\r\n            <img class=\"d-block w-100\" src=\"https://www.annauniv.edu/ece/images/dece.jpg\" alt=\"JC\">\r\n            <div class=\"Caption-Carousel\">\r\n                <h3>JC_BOSE</h3>\r\n                <p>random data</p>\r\n\r\n            </div>\r\n        </div>\r\n    </div>\r\n\r\n</div> --> ";
+    __webpack_exports__["default"] = "<div class=\"upper\">\r\n    <div class=\"container\">\r\n        <div class=\"col-sm-6\">\r\n            <span class=\"tops\"> <a href=\"https://www.google.com/maps/place/Department+of+Electronics+and+Communication+Engineering/@13.012526,80.235332,15z/data=!4m5!3m4!1s0x0:0xf0a9d75f1f556a71!8m2!3d13.012526!4d80.2353323?hl=en\"> <i class=\"fas fa-map-marked-alt\"></i>CEG, Anna University</a> </span>   \r\n            <span class=\"tops\"><i class=\"fas fa-mobile-alt\"></i>044-22358812</span>  \r\n            <span class=\"tops\"> <i class=\"fas fa-mail-bulk\"></i>cegecea2020@gmail.com</span>  \r\n               \r\n\r\n\r\n         </div>\r\n       \r\n        <div class=\"col-sm-6\">\r\n        <div class=\"bots\">\r\n        <a class=\"fb\" href=\"https://www.facebook.com/CEGECEA\">\r\n                <i class=\"fab fa-facebook\"></i>\r\n        </a>\r\n        <a class=\"insta\" href=\"https://www.instagram.com/ecea_ceg\">\r\n                <i class=\"fab fa-instagram\"></i>\r\n        </a>\r\n        <a class=\"Linkedin\" href=\"https://www.linkedin.com/in/ecea-ceg/\">\r\n            <i class=\"fab fa-linkedin\"></i>\r\n        </a>\r\n    </div>\r\n        </div>\r\n     </div>   \r\n\r\n</div>\r\n\r\n<nav class=\"navbar navbar-expand-sm bg-dark navbar-dark\">\r\n  <div class=\"container\">  \r\n\r\n\r\n    <a class=\"navbar-brand\" href=\"http://ecea.in/\">\r\n        <img src=\"../assets/images/ec5.png\"\r\n            alt=\"Logo\" style=\"width:50px; height:50px\">\r\n\r\n    </a>\r\n\r\n    <ul class=\"navbar-nav ml-auto\">\r\n        <li class=\"nav-item\">\r\n            <a class=\"nav-link\" href=\"https://drive.google.com/drive/folders/1Qf38Irv20-muMX_Q_6N1rPaDcCDqFEgV\">Higher Education</a>\r\n        </li>\r\n        <li class=\"nav-item\">\r\n            <a class=\"nav-link\" href=\"https://drive.google.com/drive/u/0/folders/1q8Wj5Uj9GAzGv9a1JHTELEYwxAHXGnpG\">Placements</a>\r\n        </li>\r\n\r\n        <li class=\"nav-item dropdown\">\r\n            <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"navbardrop\" data-toggle=\"dropdown\">\r\n                Academics\r\n            </a>\r\n            <div class=\"dropdown-menu\">\r\n                \r\n                <a class=\"dropdown-item\" href=\"https://drive.google.com/drive/u/0/folders/1qJ7f7G787h2ArWmRs0AVIEgoVs9_PjUy\">Notes</a>\r\n                <a class=\"dropdown-item\" href=\"https://drive.google.com/drive/u/0/folders/1qJ7f7G787h2ArWmRs0AVIEgoVs9_PjUy\">Q/P</a>\r\n            </div>\r\n        </li>\r\n    </ul>\r\n    <button class=\"btn btn-danger navbar-btn\" onclick=\"window.location.href = 'http://visionceg.in'; \">Vision</button>\r\n    </div>\r\n</nav>\r\n\r\n<!-- \r\n<owl-carousel-o [options]=\"customOptions\">\r\n\r\n    <ng-container *ngFor=\"let slide of slidesStore\">\r\n        <ng-template carouselSlide [id]=\"slide.id\">\r\n            <img [src]=\"slide.src\" [alt]=\"slide.alt\" [title]=\"slide.title\">\r\n        </ng-template>\r\n    </ng-container>\r\n\r\n</owl-carousel-o>\r\n\r\n\r\n\r\n<div id=\"demo\" class=\"carousel slide\" data-ride=\"carousel\">\r\n \r\n    <div class=\"carousel-inner\" role=\"listbox\">\r\n        <div class=\"carousel-item active\">\r\n            <img class=\"d-block w-100\"\r\n                src=\"https://madrasmagazine.files.wordpress.com/2018/11/anna_university_02.jpg?w=2000&h=1200&crop=1\"\r\n                alt=\"CEG\">\r\n            <div class=\"Caption-Carousel\">\r\n                <h3>CEG</h3>\r\n                <p>random data</p>\r\n\r\n            </div>\r\n        </div>\r\n\r\n        <div class=\"carousel-item\">\r\n            <img class=\"d-block w-100\" src=\"https://www.annauniv.edu/ece/images/dece.jpg\" alt=\"ECE\">\r\n            <div class=\"Caption-Carousel\">\r\n                <h3>ECE</h3>\r\n                <p>random data</p>\r\n\r\n            </div>\r\n        </div>\r\n        <div class=\"carousel-item\">\r\n            <img class=\"d-block w-100\" src=\"https://www.annauniv.edu/ece/images/dece.jpg\" alt=\"JC\">\r\n            <div class=\"Caption-Carousel\">\r\n                <h3>JC_BOSE</h3>\r\n                <p>random data</p>\r\n\r\n            </div>\r\n        </div>\r\n    </div>\r\n\r\n</div> --> ";
+    /***/
+  },
+
+  /***/
+  "./node_modules/raw-loader/dist/cjs.js!./src/app/juniors/juniors.component.html":
+  /*!**************************************************************************************!*\
+    !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/juniors/juniors.component.html ***!
+    \**************************************************************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function node_modulesRawLoaderDistCjsJsSrcAppJuniorsJuniorsComponentHtml(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "<div class=\"container\">\n<div class=\"juno\">\n\n    <h2 _ngcontent-eve-c5=\"\" class=\"sub\">Juniors</h2>\n\n<div style=\"float: left; width: 100%;\">\n    <owl-carousel-o [options]=\"customOptions\">\n        <ng-template carouselSlide>\n            <img class=\"d-block w-100\"\n                src=\"../assets/images/os.jpg\"\n                alt=\"CEG\">\n\n            <div class=\"os\">\n                <h1>Operating Secretary</h1>\n            </div>\n\n           \n        </ng-template>\n        <ng-template carouselSlide>\n            <img class=\"d-block w-100\"\n                src=\"../assets/images/js.jpg\"\n                alt=\"CEG\">\n\n                \n            <div class=\"os\">\n                    <h1>Joint Secretary</h1>\n                </div>\n        </ng-template>\n        <ng-template carouselSlide>\n            <img class=\"d-block w-100\"\n                src=\"../assets/images/wp19045958.jpg\"\n                alt=\"CEG\">\n\n                \n            <div class=\"os\">\n                    <h1>\"Lets make the world a better place\"</h1>\n           </div>\n        </ng-template>\n    </owl-carousel-o>\n</div>\n</div>\n</div>\n";
     /***/
   },
 
@@ -131,7 +151,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<div class=\"notes\">\n    <div class=\"container\">\n        <h2 class=\"subtitle\">Academics</h2>\n        <div class=\"col-sm-4\">\n            <div class=\"tips\">\n\n                <a href=\"https://drive.google.com/drive/folders/1Qf38Irv20-muMX_Q_6N1rPaDcCDqFEgV\"> <img class=\"img-responsive\"\n                        src=\"../assets/images/aaron-burden-QJDzYT_K8Xg-unsplash.jpg\"\n                        style=\"width:400px;height: 300px\"></a>\n                        <div class=\"tip\">\n                                <a href=\"https://drive.google.com/drive/folders/1Qf38Irv20-muMX_Q_6N1rPaDcCDqFEgV\">Subjectwise Notes</a>\n                            </div>\n            </div> \n        </div>\n        <div class=\"col-sm-4\">\n            <div class=\"tips\">\n\n                <a href=\"https://drive.google.com/drive/u/0/folders/1qJ7f7G787h2ArWmRs0AVIEgoVs9_PjUy\"> <img class=\"img-responsive\"\n                        src=\"../assets/images/ques'.jpg\"\n                        style=\"width:400px;height: 300px\"></a>\n\n                        <div class=\"tip\">\n                                <a href=\"https://drive.google.com/drive/u/0/folders/1qJ7f7G787h2ArWmRs0AVIEgoVs9_PjUy\">Question Papers</a>\n                            </div>\n            </div>\n            \n        </div>\n        <div class=\"col-sm-4\">\n            <div class=\"tips\">\n\n                <a href=\"https://drive.google.com/drive/u/0/folders/1q8Wj5Uj9GAzGv9a1JHTELEYwxAHXGnpG\"> <img class=\"img-responsive\"\n                        src=\"../assets/images/maranda-vandergriff-7aakZdIl4vg-unsplash.jpg\"\n                        style=\"width:400px;height: 300px\"></a>\n\n                        <div class=\"tip\">\n                                <a href=\"https://drive.google.com/drive/u/0/folders/1q8Wj5Uj9GAzGv9a1JHTELEYwxAHXGnpG\">Placement Experience</a>\n                            </div>\n            </div>\n           \n        </div>\n\n        <!-- <div class=\"col-sm-8\">\n            <div class=\"qp\">\n                   <img class=\"img-responsive\" src=\"../assets/images/northfolk-pxNcBLSPSMc-unsplash.jpg\" style=\"width:650px ;height: 300px\" >\n            </div>\n            <div class=\"buttt\">\n            <div class=\"but\">\n                    <button class=\"w3-button w3-white w3-border w3-border-blue\"  onclick=\"window.location.href = 'https://w3docs.com';\"> NOTES</button>\n\n            </div>\n            <div class=\"butt\">\n                    <button class=\"w3-button w3-white w3-border w3-border-blue\" onclick=\"window.location.href = 'https://w3docs.com';\">Q/P</button>\n                    \n            </div>\n            </div>\n\n\n        </div>\n        <div class=\"col-sm-4\">\n            <div class=\"tips\">\n                   \n                    <a href=\"\">  <img class=\"img-responsive\" src=\"../assets/images/maranda-vandergriff-7aakZdIl4vg-unsplash.jpg\" style=\"width:400px;height: 300px\" ></a>\n                </div>\n             <div class=\"tip\">\n                 <a href=\"\">Placement_experience</a>\n             </div>   \n            </div> -->\n\n\n    </div>\n</div>";
+    __webpack_exports__["default"] = "<div class=\"notes\">\n    <div class=\"container\">\n        <h2 class=\"subtitle\">Academics</h2>\n        <div class=\"col-sm-4\">\n            <div class=\"tips\">\n\n                <a href=\"https://drive.google.com/drive/folders/1Qf38Irv20-muMX_Q_6N1rPaDcCDqFEgV\"> <img class=\"img-responsive\"\n                        src=\"../assets/images/aaron-burden-QJDzYT_K8Xg-unsplash.jpg\"\n                        style=\"width:400px;height: 300px\"></a>\n                        <div class=\"tip\">\n                                <a href=\"https://drive.google.com/drive/folders/1Qf38Irv20-muMX_Q_6N1rPaDcCDqFEgV\">Higher Studies</a>\n                            </div>\n            </div> \n        </div>\n        <div class=\"col-sm-4\">\n            <div class=\"tips\">\n\n                <a href=\"https://drive.google.com/drive/u/0/folders/1qJ7f7G787h2ArWmRs0AVIEgoVs9_PjUy\"> <img class=\"img-responsive\"\n                        src=\"../assets/images/ques'.jpg\"\n                        style=\"width:400px;height: 300px\"></a>\n\n                        <div class=\"tip\">\n                                <a href=\"https://drive.google.com/drive/u/0/folders/1qJ7f7G787h2ArWmRs0AVIEgoVs9_PjUy\">Notes and Q/P</a>\n                            </div>\n            </div>\n            \n        </div>\n        <div class=\"col-sm-4\">\n            <div class=\"tips\">\n\n                <a href=\"https://drive.google.com/drive/u/0/folders/1q8Wj5Uj9GAzGv9a1JHTELEYwxAHXGnpG\"> <img class=\"img-responsive\"\n                        src=\"../assets/images/maranda-vandergriff-7aakZdIl4vg-unsplash.jpg\"\n                        style=\"width:400px;height: 300px\"></a>\n\n                        <div class=\"tip\">\n                                <a href=\"https://drive.google.com/drive/u/0/folders/1q8Wj5Uj9GAzGv9a1JHTELEYwxAHXGnpG\">Placement Experience</a>\n                            </div>\n            </div>\n           \n        </div>\n\n        <!-- <div class=\"col-sm-8\">\n            <div class=\"qp\">\n                   <img class=\"img-responsive\" src=\"../assets/images/northfolk-pxNcBLSPSMc-unsplash.jpg\" style=\"width:650px ;height: 300px\" >\n            </div>\n            <div class=\"buttt\">\n            <div class=\"but\">\n                    <button class=\"w3-button w3-white w3-border w3-border-blue\"  onclick=\"window.location.href = 'https://w3docs.com';\"> NOTES</button>\n\n            </div>\n            <div class=\"butt\">\n                    <button class=\"w3-button w3-white w3-border w3-border-blue\" onclick=\"window.location.href = 'https://w3docs.com';\">Q/P</button>\n                    \n            </div>\n            </div>\n\n\n        </div>\n        <div class=\"col-sm-4\">\n            <div class=\"tips\">\n                   \n                    <a href=\"\">  <img class=\"img-responsive\" src=\"../assets/images/maranda-vandergriff-7aakZdIl4vg-unsplash.jpg\" style=\"width:400px;height: 300px\" ></a>\n                </div>\n             <div class=\"tip\">\n                 <a href=\"\">Placement_experience</a>\n             </div>   \n            </div> -->\n\n\n    </div>\n</div>";
     /***/
   },
 
@@ -151,7 +171,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n<div class=\"slide\">\n        <div class=\"container\">\n\n                <h2 _ngcontent-eve-c5=\"\" class=\"subtitle\">Office Bearers</h2>\n\n\n<div style=\"float: left; width: 100%;\">\n        <owl-carousel-o [options]=\"customOptions\">\n            <ng-template carouselSlide>\n                <img class=\"d-block w-70\"\n                    src=\"../assets/images/meenaksi.jpg\"\n                    alt=\"CEG\">\n\n                \n                    <div class=\"banneroverlay\">\n                            <h1>Dr.M.Meenakshi</h1>\n                            <span>Chairman</span>\n                        </div>\n            </ng-template>\n            <ng-template carouselSlide>\n                <img class=\"d-block w-70\"\n                    src=\"../assets/images/nirmal.jpeg\"\n                    alt=\"CEG\">\n\n                    \n                    <div class=\"banneroverlay\">\n                            <h1>Dr.P.Nirmal Kumar</h1>\n                            <span>Treasurer</span>\n                        </div>\n            </ng-template>\n            <ng-template carouselSlide>\n                <img class=\"d-block w-70\"\n                    src=\"../assets/images/dhush1.jpg\"\n                    alt=\"CEG\">\n\n                    \n                    <div class=\"banneroverlay\">\n                            <h1>Dhushyanth</h1>\n                            <span>President</span>\n                        </div>\n            </ng-template>\n            <ng-template carouselSlide>\n                    <img class=\"d-block w-70\"\n                        src=\"../assets/images/p5.jpg\"\n                        alt=\"CEG\">\n    \n                        <div class=\"banneroverlay\">\n                                <h1>Madhumathi</h1>\n                                <span>Deputy Treasurer</span>\n                            </div>\n                </ng-template>\n                <ng-template carouselSlide>\n                    <img class=\"d-block w-100\"\n                        src=\"../assets/images/adi.jpg\"\n                        alt=\"CEG\">\n                        <div class=\"banneroverlay\">\n                                <h1>Rahul Sivanand</h1>\n                                <span>Vice President</span>\n                            </div>\n                </ng-template>\n                <ng-template carouselSlide>\n                    <img class=\"d-block w-70\"\n                        src=\"../assets/images/p6.jpg\"\n                        alt=\"CEG\">\n                        <div class=\"banneroverlay\">\n                                <h1>Vishnu Priya</h1>\n                                <span>Vice President</span>\n                            </div>\n                </ng-template>\n                <ng-template carouselSlide>\n                        <img class=\"d-block w-70\"\n                            src=\"../assets/images/p3.jpg\"\n                            alt=\"CEG\">\n                            <div class=\"banneroverlay\">\n                                    <h1>Akilan</h1>\n                                    <span>Secretary</span>\n                                </div>\n                    </ng-template>\n                    <ng-template carouselSlide>\n                        <img class=\"d-block w-70\"\n                            src=\"../assets/images/bavi.jpg\"\n                            alt=\"CEG\">\n                            <div class=\"banneroverlay\">\n                                    <h1>Bhavatharani</h1>\n                                    <span>Secretary</span>\n                                </div>\n                    </ng-template>\n                    \n                \n                                \n        </owl-carousel-o>\n    </div>\n    </div>\n</div>";
+    __webpack_exports__["default"] = "\n<div class=\"slide\">\n        <div class=\"container\">\n\n                <h2 _ngcontent-eve-c5=\"\" class=\"subtitle\">Office Bearers</h2>\n\n\n<div style=\"float: left; width: 100%;\">\n        <owl-carousel-o [options]=\"customOptions\">\n            <ng-template carouselSlide>\n                <img class=\"d-block w-70\"\n                    src=\"../assets/images/meenaksi.jpg\"\n                    alt=\"CEG\">\n\n                \n                    <div class=\"banneroverlay\">\n                            <h1>Dr.M.Meenakshi</h1>\n                            <span>Chairman</span>\n                        </div>\n            </ng-template>\n            <ng-template carouselSlide>\n                <img class=\"d-block w-70\"\n                    src=\"../assets/images/nirmal.jpeg\"\n                    alt=\"CEG\">\n\n                    \n                    <div class=\"banneroverlay\">\n                            <h1>Dr.P.Nirmal Kumar</h1>\n                            <span>Treasurer</span>\n                        </div>\n            </ng-template>\n            <ng-template carouselSlide>\n                <img class=\"d-block w-70\"\n                    src=\"../assets/images/dhush1.jpg\"\n                    alt=\"CEG\">\n\n                    \n                    <div class=\"banneroverlay\">\n                            <h1>Dhushyanth</h1>\n                            <span>President</span>\n                        </div>\n            </ng-template>\n            <ng-template carouselSlide>\n                    <img class=\"d-block w-70\"\n                        src=\"../assets/images/p5.jpg\"\n                        alt=\"CEG\">\n    \n                        <div class=\"banneroverlay\">\n                                <h1>Madhumathi</h1>\n                                <span>Deputy Treasurer</span>\n                            </div>\n                </ng-template>\n                <ng-template carouselSlide>\n                    <img class=\"d-block w-100\"\n                        src=\"../assets/images/adi.jpg\"\n                        alt=\"CEG\">\n                        <div class=\"banneroverlay\">\n                                <h1>Rahul Sivanand</h1>\n                                <span>Vice President</span>\n                            </div>\n                </ng-template>\n                <ng-template carouselSlide>\n                    <img class=\"d-block w-70\"\n                        src=\"../assets/images/p6.jpg\"\n                        alt=\"CEG\">\n                        <div class=\"banneroverlay\">\n                                <h1>VishnuPriya</h1>\n                                <span>Vice President</span>\n                            </div>\n                </ng-template>\n                <ng-template carouselSlide>\n                        <img class=\"d-block w-70\"\n                            src=\"../assets/images/p3.jpg\"\n                            alt=\"CEG\">\n                            <div class=\"banneroverlay\">\n                                    <h1>Akilan</h1>\n                                    <span>Secretary</span>\n                                </div>\n                    </ng-template>\n                    <ng-template carouselSlide>\n                        <img class=\"d-block w-70\"\n                            src=\"../assets/images/bavi.jpg\"\n                            alt=\"CEG\">\n                            <div class=\"banneroverlay\">\n                                    <h1>Bhavatharani</h1>\n                                    <span>Secretary</span>\n                                </div>\n                    </ng-template>\n                    \n                \n                                \n        </owl-carousel-o>\n    </div>\n    </div>\n</div>";
     /***/
   },
 
@@ -171,7 +191,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n<div class=symp>\n    <div class=\"container\">\n        <div class=\"col-sm-4\">\n            <div class=\"Vision\">\n                \n                <div class=\"im\">\n                    <img src=\"../assets/images/V.png\" style=\"width:80px ;height: 80px\" href=\"visionceg.in\" >\n                </div>\n                <p class=\"vis\">The department of ECE, CEG is proudly hosting the silver jubilee of one of the most yearned for symposium- VISION, from March 12th to 14th 2020.Vision comprises a myriad of technical and non-technical events,robotic heats and inspiring workshops for the geeks of CEG and various other colleges.\n                    \"Let the visionary unravel  the seas of knowledge and experience, to the seekers.\"\n            </div>\n        </div>\n        <div class=\"col-sm-4\">\n                <div class=\"Vision\">\n                    \n                    <div class=\"im\">\n                            <img src=\"../assets/images/R.jpg\" style=\"width:80px ;height: 80px \">\n                    </div>\n                    <p id=\"res\">The brains of circuits and codes resonate and bring together the freaks of technology.The department of ECE  ensures this singularity with its RESONANCE- the ECE intra-college symposium.RESONANCE is a conglomeration of the technical and non-technical with events, games and various other activities to activate the minds.</p>\n\n                </div>\n        </div>\n         <div class=\"col-sm-4\">\n                    <div class=\"Vision\">\n                       \n                        <div class=\"im\">\n                                <img src=\"../assets/images/D.jpg\" style=\"width:80px ;height: 80px \" >\n                            </div>\n                        <p id=\"dir\">When the novel signals meet to knit the circuit, the coherence to create a revolution arises.The ardent new ECE engineers are welcomed as a hope to develop in them a love to the field.The seniors take this moment to express their experience and learnings in the most nurturing way.This is the ECE department freshers- DIRECTIVITY.</p>\n                    </div>\n          </div>   \n      \n    \n\n    </div>\n</div>";
+    __webpack_exports__["default"] = "\n<div class=symp>\n    <div class=\"container\">\n        <div class=\"col-sm-4\">\n            <div class=\"Vision\">\n                \n                <div class=\"im\">\n                    <img src=\"../assets/images/visi.jpg\" style=\"width:80px ;height: 80px\" href=\"visionceg.in\" >\n                </div>\n                <p class=\"vis\">The department of ECE, CEG is proudly hosting the silver jubilee of one of the most yearned for symposium- VISION, from March 12th to 14th 2020.Vision comprises a myriad of technical and non-technical events,robotic heats and inspiring workshops for the geeks of CEG and various other colleges.\"Let the visionary unravel  the seas of knowledge and experience, to the seekers.\"\n            </div>\n        </div>\n        <div class=\"col-sm-4\">\n                <div class=\"Vision\">\n                    \n                    <div class=\"im\">\n                            <img src=\"../assets/images/reso.jpg\" style=\"width:125px ;height: 80px \">\n                    </div>\n                    <p id=\"res\">The brains of circuits and codes resonate and bring together the freaks of technology.The department of ECE ensures this singularity with its RESONANCE- the ECE intra-college symposium.RESONANCE is a conglomeration of the technical and non-technical with events, games and various other activities to activate the minds.</p>\n\n                </div>\n        </div>\n         <div class=\"col-sm-4\">\n                    <div class=\"Vision\">\n                       \n                        <div class=\"im\">\n                                <img src=\"../assets/images/logo.png\" style=\"width:80px ;height: 80px \" >\n                            </div>\n                        <p id=\"dir\">When the novel signals meet to knit the circuit, the coherence to create a revolution arises.The ardent new ECE engineers are welcomed as a hope to develop in them a love to the field.The seniors take this moment to express their experience and learnings in the most nurturing way.This is the ECE department freshers- DIRECTIVITY.</p>\n                    </div>\n          </div>   \n      \n    \n\n    </div>\n</div>";
     /***/
   },
 
@@ -1005,13 +1025,19 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     var _footer_footer_component__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(
     /*! ./footer/footer.component */
     "./src/app/footer/footer.component.ts");
+    /* harmony import */
+
+
+    var _juniors_juniors_component__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(
+    /*! ./juniors/juniors.component */
+    "./src/app/juniors/juniors.component.ts");
 
     var AppModule = function AppModule() {
       _classCallCheck(this, AppModule);
     };
 
     AppModule = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_2__["NgModule"])({
-      declarations: [_app_component__WEBPACK_IMPORTED_MODULE_4__["AppComponent"], _header_header_component__WEBPACK_IMPORTED_MODULE_5__["HeaderComponent"], _aboutus_aboutus_component__WEBPACK_IMPORTED_MODULE_8__["AboutusComponent"], _sympo_sympo_component__WEBPACK_IMPORTED_MODULE_9__["SympoComponent"], _qp_qp_component__WEBPACK_IMPORTED_MODULE_10__["QpComponent"], _slider_slider_component__WEBPACK_IMPORTED_MODULE_11__["SliderComponent"], _footer_footer_component__WEBPACK_IMPORTED_MODULE_12__["FooterComponent"]],
+      declarations: [_app_component__WEBPACK_IMPORTED_MODULE_4__["AppComponent"], _header_header_component__WEBPACK_IMPORTED_MODULE_5__["HeaderComponent"], _aboutus_aboutus_component__WEBPACK_IMPORTED_MODULE_8__["AboutusComponent"], _sympo_sympo_component__WEBPACK_IMPORTED_MODULE_9__["SympoComponent"], _qp_qp_component__WEBPACK_IMPORTED_MODULE_10__["QpComponent"], _slider_slider_component__WEBPACK_IMPORTED_MODULE_11__["SliderComponent"], _footer_footer_component__WEBPACK_IMPORTED_MODULE_12__["FooterComponent"], _juniors_juniors_component__WEBPACK_IMPORTED_MODULE_13__["JuniorsComponent"]],
       imports: [_angular_platform_browser_animations__WEBPACK_IMPORTED_MODULE_6__["BrowserAnimationsModule"], _angular_platform_browser__WEBPACK_IMPORTED_MODULE_1__["BrowserModule"], _angular_forms__WEBPACK_IMPORTED_MODULE_3__["FormsModule"], ngx_owl_carousel_o__WEBPACK_IMPORTED_MODULE_7__["CarouselModule"]],
       providers: [],
       bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_4__["AppComponent"]]
@@ -1174,6 +1200,111 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
       /*! ./header.component.css */
       "./src/app/header/header.component.css")).default]
     })], HeaderComponent);
+    /***/
+  },
+
+  /***/
+  "./src/app/juniors/juniors.component.css":
+  /*!***********************************************!*\
+    !*** ./src/app/juniors/juniors.component.css ***!
+    \***********************************************/
+
+  /*! exports provided: default */
+
+  /***/
+  function srcAppJuniorsJuniorsComponentCss(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony default export */
+
+
+    __webpack_exports__["default"] = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2p1bmlvcnMvanVuaW9ycy5jb21wb25lbnQuY3NzIn0= */";
+    /***/
+  },
+
+  /***/
+  "./src/app/juniors/juniors.component.ts":
+  /*!**********************************************!*\
+    !*** ./src/app/juniors/juniors.component.ts ***!
+    \**********************************************/
+
+  /*! exports provided: JuniorsComponent */
+
+  /***/
+  function srcAppJuniorsJuniorsComponentTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "JuniorsComponent", function () {
+      return JuniorsComponent;
+    });
+    /* harmony import */
+
+
+    var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! tslib */
+    "./node_modules/tslib/tslib.es6.js");
+    /* harmony import */
+
+
+    var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! @angular/core */
+    "./node_modules/@angular/core/fesm2015/core.js");
+
+    var JuniorsComponent =
+    /*#__PURE__*/
+    function () {
+      function JuniorsComponent() {
+        _classCallCheck(this, JuniorsComponent);
+
+        this.customOptions = {
+          loop: true,
+          autoplay: true,
+          mouseDrag: true,
+          touchDrag: true,
+          pullDrag: false,
+          dots: false,
+          navSpeed: 700,
+          navText: ['', ''],
+          responsive: {
+            0: {
+              items: 1
+            },
+            400: {
+              items: 1
+            },
+            740: {
+              items: 1
+            },
+            940: {
+              items: 1
+            }
+          },
+          nav: true
+        };
+      }
+
+      _createClass(JuniorsComponent, [{
+        key: "ngOnInit",
+        value: function ngOnInit() {}
+      }]);
+
+      return JuniorsComponent;
+    }();
+
+    JuniorsComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+      selector: 'app-juniors',
+      template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! raw-loader!./juniors.component.html */
+      "./node_modules/raw-loader/dist/cjs.js!./src/app/juniors/juniors.component.html")).default,
+      styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
+      /*! ./juniors.component.css */
+      "./src/app/juniors/juniors.component.css")).default]
+    })], JuniorsComponent);
     /***/
   },
 
